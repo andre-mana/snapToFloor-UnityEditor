@@ -1,6 +1,6 @@
-# Unity Editor - Snap to Floor
+# Snap to Floor - Unity Editor script
 
-This script allows objects to be automatically snapped to the floor in Unity Editor, eliminating the need to do it manually. It supports objects with the Skinned Mesh Renderer component, rotated objects, and irregular terrain.
+This script allows objects to be automatically snapped to the floor in Unity Editor, eliminating the need to do it manually. It also supports objects with the Skinned Mesh Renderer component, rotated objects, and irregular terrain.
 
  ![1](https://github.com/andre-mana/snapToFloor-UnityEditor-/assets/172200018/523bb7ef-102b-40a2-a62e-f8cc4f0b7906)
 
